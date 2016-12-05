@@ -21,6 +21,13 @@
 </pre> 
 
 
-### 분석 결과 화면
+### 데이터 탐색 결과 주요 화면
 * 주고 받은 메일 산점도 
 <img src='https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/Kvs/image/Trh3ZAzAC5M6-Eqoxzlcs0R4OUs.png' />
+
+* E-Mail 토픽 추출 
+<img src='https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/Kvs/image/b0uiwTHjm9j5Mqcz0ANsTV4cgXY.png' />
+
+* E-Mail Netwokr 분석 
+<img src='https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/Kvs/image/bDCjHjbGYoa_JeGv3NP6oBIazc8.png' />
+
